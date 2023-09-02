@@ -273,3 +273,7 @@ Lo trasladamos a la maquina  victima levantando un servidor de pyhon en el direc
 Muy bien, espero que te gustara, si te fue de ayuda para aprender nuevas cosas, por favor comparte. 
 
 Happy Hacking!
+
+Instagram: dalt0X6.__asm__
+
+Linkedin: https://www.linkedin.com/in/omar-ggd/
